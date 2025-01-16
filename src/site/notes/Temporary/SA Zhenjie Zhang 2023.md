@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/Temporary/SA Zhenjie Zhang 2023/","tags":["gardenEntry"]}
 ---
 
-
 ## 对象
 玄武岩
 来自软流圈的熔体，实验岩石学表明玄武质初始熔体中的氧化物对熔融压力很敏感，并且对地幔成分的改变不敏感，是估算岩石圈厚度的好的对象
