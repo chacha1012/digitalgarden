@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/Mine/O isotope/","tags":["gardenEntry"]}
 ---
 
-
-# paper review
+paper review
 ## Valley Oxygen Isotopes in zircon
 Watson and Cherniak (1997) measured the rate of oxygen diffusion in zircon under dry (PH2O< 1bar) and wet (PH2O = 70 bar to 10 kbar) experimental conditions using synthetic and natural
 zircon samples. No anisotropy of diffusion rate was observed in measurements made parallel and
